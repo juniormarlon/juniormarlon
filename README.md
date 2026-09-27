@@ -1,10 +1,10 @@
-# Olá! Eu sou Marlon Júnior 👋
+# Olá! Eu sou Marlon Júnior 
 
-💻 Estudante de Desenvolvimento de Software
+ Estudante de Desenvolvimento de Software
 
 Atualmente estou estudando programação e desenvolvimento web, com foco em construir projetos práticos e desenvolver minhas habilidades para ingressar no mercado de tecnologia.
 
-## 🚀 Atualmente estudando
+##  Atualmente estudando
 
 - Python
 - Lógica de programação
@@ -13,13 +13,13 @@ Atualmente estou estudando programação e desenvolvimento web, com foco em cons
 - Git
 - GitHub
 
-## 📚 Em aprendizado
+##  Em aprendizado
 
 - JavaScript
 - SQL
 - Desenvolvimento Backend
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - Python
 - HTML5
@@ -27,7 +27,7 @@ Atualmente estou estudando programação e desenvolvimento web, com foco em cons
 - Git
 - GitHub
 
-## 📂 Projetos
+##  Projetos
 
 ### Estudos de Desenvolvimento Web
 
@@ -35,6 +35,6 @@ Exercícios e projetos desenvolvidos durante meus estudos de HTML e desenvolvime
 
 🔗 [Ver repositório](https://github.com/juniormarlon/estudos-desenvolvimento-web)
 
-## 🎯 Objetivo
+##  Objetivo
 
 Busco uma oportunidade na área de tecnologia para aplicar meus conhecimentos, continuar aprendendo e desenvolver experiência profissional em programação.
